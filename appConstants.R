@@ -6,7 +6,7 @@ appName <- 'quality'
 appTitle <- 'Qualitäts-Tracker'
 app_id <- 'eu.ownyourdata.quality'
 helpUrl <- 'https://www.ownyourdata.eu/apps/qualitaets-tracker/'
-mobileUrl <- 'https://quality-mobil.datentresor.org'
+mobileUrl <- 'https://quality-mobil.oydapp.eu'
 
 # definition of data structure
 currRepoSelect <- ''
